@@ -127,9 +127,9 @@ work easily with Python, run the code interactively and see the output and, in
 some cases, interact with this output 
 
 
-## An IDE
+### An IDE
 
-Her,e you can install any IDE you like, there are tooooo many options and 
+Here you can install any IDE you like, there are tooooo many options and 
 flavours, and styles; I can suggest Visual Studio Code
 
 https://code.visualstudio.com/
